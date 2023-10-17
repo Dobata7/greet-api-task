@@ -1,0 +1,71 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.filter label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.filter select {
+  font-size: 16px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 300px;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.card p {
+  font-size: 14px;
+}
+
+.external-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0074D9;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 10px 0;
+}
+
+.external-button:hover {
+  background-color: #0056b3;
+}
