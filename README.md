@@ -10,9 +10,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Token
-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
-
 ## Description
 
 The GREET API Task is a Single-Page Application (SPA) that consumes data from an external API. It presents the data as cards, each containing an image, name, description, category, and an 'Add To Cart' button.
@@ -25,9 +22,6 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Dobata7/greet-api-task.git
-
-   username: dobatamihaylov@gmail.com
-   password: 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
    ```
 
 2. Navigate to the project directory:
